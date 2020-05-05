@@ -12,9 +12,9 @@
   width: 710px;
   height: 30px;
   margin: auto;
-  position: relative;
-  top: 37px;
-
+  margin-top: 40px;
+  padding: auto;
+  
  
   border-radius: 15px;
   font-size: 14px;
@@ -37,3 +37,34 @@
 .btn.wh:hover{
   background-color: #00baff;
 }
+h1.sty{
+  font-size: 65px;
+  letter-spacing: .014em;
+  font-family: assistant-basic,Assistant,Helvetica,Arial,sans-serif;
+  font-weight: 800;
+  line-height: 1.2;
+  color: #202730;
+  margin-top: 20px;
+  margin-bottom: 21px;
+}
+p.moto{
+  width: 590px;
+  height: 58px;
+  margin: auto;
+  font-family: roboto-basic,Roboto,Helvetica,Arial,sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.7;
+  letter-spacing: .02em;
+  margin-bottom: 35px;
+  }
+
+  .btn.spf{
+    background-color: #00baff;
+    width: 292px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 18px;
+    letter-spacing: .2em;
+    font-weight: 700;
+  }
