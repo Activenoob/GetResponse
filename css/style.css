@@ -108,3 +108,19 @@ p.moto{
     text-align: center;
     margin-bottom: 70px;
   }
+  p.sas{
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: .2em;
+    color:  #00baff;
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+  }
+  
+div.customer{
+  width: 100%;
+  height: 723px;
+  background-image: url(../img/katie.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  
+  }
